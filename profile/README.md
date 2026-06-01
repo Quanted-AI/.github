@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="./quanted-logo.png" alt="Quanted" width="180" />
-</p>
-
-<h1 align="center">Quanted</h1>
-
-<p align="center"><em>The context layer for capital markets.</em></p>
-
----
+Welcome to the Quanted GitHub organization 👋
 
 ## About Quanted
 
